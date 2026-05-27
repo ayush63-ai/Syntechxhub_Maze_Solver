@@ -1,7 +1,7 @@
 # AI Maze Solver — A* Search Algorithm 🧩
 
 <p align="center">
-  <img src="examples/Simple_10x10.png" width="480" alt="A* Maze Solver Demo"/>
+ I uploaded a video name Ai-Maze-Solver.mp4 check that for demo
 </p>
 
 <p align="center">
